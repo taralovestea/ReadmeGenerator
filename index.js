@@ -74,6 +74,14 @@ function init() {
 
             let text = `
             ${combinedData.bio}
+            ${data.username}
+            ${data.project}
+            ${data.description}
+            ${data.contents}
+            ${data.installation}
+            ${data.usage}
+            ${data.license}
+            ${data.test}
 
             `
 
@@ -86,3 +94,4 @@ function init() {
 
 }
     init();
+
