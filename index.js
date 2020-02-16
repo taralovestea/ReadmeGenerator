@@ -72,15 +72,29 @@ function init() {
             }
             console.log(combinedData)
 
-            let text = `
+            let text = ` ## USER DATA 
             ${combinedData.bio}
             ${data.username}
+
+            ## PROJECT NAME 
             ${data.project}
+
+            ## DESCRIPTION 
             ${data.description}
+
+            ## TABLE OF CONTENTS 
             ${data.contents}
+
+            ## INSTALLATION 
             ${data.installation}
+
+            ## USAGE 
             ${data.usage}
+
+            ## LICENSE 
             ${data.license}
+
+            ## TEST 
             ${data.test}
 
             `
