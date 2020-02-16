@@ -75,6 +75,7 @@ function init() {
             let text = ` ## USER DATA 
             ${combinedData.bio}
             ${data.username}
+            ${combinedData.image}
 
             ## PROJECT NAME 
             ${data.project}
@@ -93,7 +94,7 @@ function init() {
 
             ## LICENSE 
             ${data.license}
-[![License](https://img.shields.io/npm/l/Read me generator.svg)](https://www.npmjs.com/package/Read me generator)
+            [![License](https://img.shields.io/npm/l/Read me generator.svg)](https://www.npmjs.com/package/Read me generator)
 
             ## TEST 
             ${data.test}
@@ -109,4 +110,3 @@ function init() {
 
 }
     init();
-
