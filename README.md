@@ -1,5 +1,8 @@
 # Read me Generator
 
+![2020-02-15 20 04 51](https://user-images.githubusercontent.com/59029999/74597989-9e227f00-502e-11ea-989e-5b05d2795d34.gif)
+
+
 AS A developer
 
 I WANT a README generator
